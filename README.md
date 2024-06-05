@@ -25,8 +25,18 @@ The analysis will be based on the provided dataset, which includes the following
 * Duration: The duration of the film.
 
 ## Hypothesis
+Studio Ghibli films with higher budgets will, on average, generate greater revenues at the box office compared to films with lower budgets.
+
 ## Vision
+To provide stakeholders in the entertainment industry with actionable insights into the financial dynamics of Studio Ghibli films, enabling informed decision-making and strategic planning for future film projects.
+
 ## Objective
+* Conduct a comprehensive analysis of trends in movie budgets and revenues for Studio Ghibli films, uncovering patterns and relationships to provide a clear understanding of their financial performance.
+* Examine the critical relationship between budget allocation and revenue generation to explore the financial viability of Studio Ghibli films.
+* Yield valuable insights for stakeholders involved in film production, distribution, and investment.
+* Provide actionable recommendations to maximize financial returns while preserving the artistic integrity and creative vision of Studio Ghibli.
+* Highlight the financial dynamics from a historical perspective, comparing old versus new films to demonstrate Studio Ghibli's adaptability and innovative approach in the evolving animation industry.
+
 ## Key Insights
 ### Dashboard
 ![image](https://github.com/acsoteldo/Studio-Ghibli-Films-Financial-Insights/assets/76544489/d5ac72e9-87af-478e-ba21-7a3f0b5f251d)
