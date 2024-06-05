@@ -33,7 +33,6 @@ To provide stakeholders in the entertainment industry with actionable insights i
 ## Objective
 * Conduct a comprehensive analysis of trends in movie budgets and revenues for Studio Ghibli films, uncovering patterns and relationships to provide a clear understanding of their financial performance.
 * Examine the critical relationship between budget allocation and revenue generation to explore the financial viability of Studio Ghibli films.
-* Yield valuable insights for stakeholders involved in film production, distribution, and investment.
 * Provide actionable recommendations to maximize financial returns while preserving the artistic integrity and creative vision of Studio Ghibli.
 * Highlight the financial dynamics from a historical perspective, comparing old versus new films to demonstrate Studio Ghibli's adaptability and innovative approach in the evolving animation industry.
 
