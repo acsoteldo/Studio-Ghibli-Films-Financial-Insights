@@ -29,6 +29,8 @@ The analysis will be based on the provided dataset, which includes the following
 ## Objective
 ## Key Insights
 ### Dashboard
+![image](https://github.com/acsoteldo/Studio-Ghibli-Films-Financial-Insights/assets/76544489/d5ac72e9-87af-478e-ba21-7a3f0b5f251d)
+
 ## Next Steps
 
 ## Contact
