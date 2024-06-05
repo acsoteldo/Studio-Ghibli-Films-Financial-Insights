@@ -37,10 +37,19 @@ To provide stakeholders in the entertainment industry with actionable insights i
 * Highlight the financial dynamics from a historical perspective, comparing old versus new films to demonstrate Studio Ghibli's adaptability and innovative approach in the evolving animation industry.
 
 ## Key Insights
+* Budget allocation has no significant impact on a film's revenue, indicating that financial success is not directly tied to higher production costs.
+* Studio Ghibli films consistently achieve success over the years, demonstrating enduring popularity and effectiveness regardless of budget-to-revenue correlation.
+* The analysis highlights Studio Ghibli's ability to adapt and innovate, maintaining its iconic status in the animation industry across both older and newer films.
+* The top-performing genres are family, fantasy, and adventure, underscoring their broad audience appeal.
+* The dataset reveals two notable outliers that deviate from the overall trend, noting that the revenue figures may not be entirely accurate.
+
 ### Dashboard
 ![image](https://github.com/acsoteldo/Studio-Ghibli-Films-Financial-Insights/assets/76544489/d5ac72e9-87af-478e-ba21-7a3f0b5f251d)
 
 ## Next Steps
+* Conduct a comprehensive analysis of the financial performance of individual genres within Studio Ghibli films.
+* Identify key target demographics and geographical regions that show strong engagement with Studio Ghibli films for more effective marketing campaigns and distribution strategies.
+* Invest in training programs and initiatives to nurture emerging talent within the animation industry, ensuring a pipeline of creative professionals capable of sustaining Studio Ghibli's legacy.
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
