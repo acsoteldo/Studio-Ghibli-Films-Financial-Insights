@@ -49,7 +49,7 @@ To provide stakeholders in the entertainment industry with actionable insights i
 ## Next Steps
 * Conduct a comprehensive analysis of the financial performance of individual genres within Studio Ghibli films.
 * Identify key target demographics and geographical regions that show strong engagement with Studio Ghibli films for more effective marketing campaigns and distribution strategies.
-* Invest in training programs and initiatives to nurture emerging talent within the animation industry, ensuring a pipeline of creative professionals capable of sustaining Studio Ghibli's legacy.
+* For stakeholders, invest in training programs and initiatives to nurture emerging talent within the animation industry, ensuring a pipeline of creative professionals capable of sustaining Studio Ghibli's legacy.
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.
