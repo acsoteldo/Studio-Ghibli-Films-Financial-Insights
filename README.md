@@ -1,5 +1,5 @@
-#  Studio Ghibli Films Financial Insights
-Analyzing Trends in Budgets and Revenues
+#  Impact of Production Budgets on the Success of Films
+Analyzing Budgets and Box Office Revenues of Studio Ghibli Films
 
 ## Getting Started: 
 1. Report and presentation
