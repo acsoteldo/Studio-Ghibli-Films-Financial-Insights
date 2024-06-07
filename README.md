@@ -14,7 +14,7 @@ Excel, Jupyter, Python, SQL, Tableau
 ### Data Sources:
 The data used in this analysis was scraped from [The Movie Database (TMDb) Studio Ghibli Collection](https://www.themoviedb.org/list/4309-the-studio-ghibli-collection). While it offers comprehensive information, the revenue figures may not be entirely accurate. Therefore, conclusions should be considered with this limitation in mind, and further verification from official sources is recommended for precise decision-making. Despite inconsistencies in the revenue and budget figures, the data was analyzed and visualized for practice purposes.
 
-The analysis will be based on the provided dataset, which includes the following fields:
+The analysis will be based on the cleaned dataset, which includes the following fields:
 * Name: The title of the Studio Ghibli film.
 * Year: The release year of the film.
 * Director: The director of the film.
