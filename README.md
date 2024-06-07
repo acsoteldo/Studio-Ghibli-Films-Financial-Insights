@@ -25,7 +25,7 @@ The analysis will be based on the cleaned dataset, which includes the following 
 * Duration: The duration of the film.
 
 ## Problem Definition
-Ghibli films' financial performance, driven by their acclaim and following, prompts an analysis of their production budgets and box office revenues. This study will examine factors such as the relationship between budgetary investment and revenue generation, identifying any notable shifts or patterns over time, and exploring how various genres and creative elements impact financial success to inform future strategies.
+Ghibli films' financial performance, driven by their acclaim and following, prompts an analysis of their production budgets and box office revenues. This report will examine factors such as the relationship between budgetary investment and revenue generation, identifying any notable shifts or patterns over time, and exploring how various genres and creative elements impact financial success to inform future strategies.
 
 ## Hypothesis
 Studio Ghibli films with higher budgets will, on average, generate greater revenues at the box office compared to films with lower budgets.
